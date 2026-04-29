@@ -97,13 +97,12 @@ Below are the key showcase sections included in this portfolio:
 ```
 
 **🚀 Screenshot Areas for Visual Enhancement:**
-- *Hero Section with Dynamic Background* - ![Hero Section Screenshot](./assets/images/Readme/Hero.png)
-- *Portfolio Grid* - ![Portfolio Grid Screenshot](./assets/images/Readme/Hero.mp4)
-- *Portfolio Projects Grid* - ![Portfolio Projects Grid Screenshot](./assets/images/Readme/Tracker.png)![Portfolio Projects Grid Screenshot](./assets/images/Readme/Billing.png)![Portfolio Projects Grid Screenshot](./assets/images/Readme/Vistans.png)![Portfolio Projects Grid Screenshot](./assets/images/Readme/Krc.png)
-- *Innovation in Progress* - ![Innovation in Progress](./assets/images/Readme/Innovation.png)
-- *Services Showcase* - ![Services Showcase](./assets/images/Readme/S-1.png)![Services Showcase](./assets/images/Readme/S-2.png)![Services Showcase](./assets/images/Readme/S-3.png)![Services Showcase](./assets/images/Readme/S-4.png)![Services Showcase](./assets/images/Readme/S-5.png)
-- *About Section* - ![About Section](./assets/images/Readme/About-me.png)
-- *Tech Stack Visualization* - ![Tech Stack Visualization](./assets/images/Readme/Tech-Stack.png)
+- *Hero Section with Dynamic Background* - ![Hero Section Screenshot](./Rituraj/assets/images/Readme/Hero.png)
+- *Portfolio Projects Grid* - ![Portfolio Projects Grid Screenshot](./Rituraj/assets/images/Readme/Tracker.png)![Portfolio Projects Grid Screenshot](./Rituraj/assets/images/Readme/Billing.png)![Portfolio Projects Grid Screenshot](./Rituraj/assets/images/Readme/Vistans.png)![Portfolio Projects Grid Screenshot](./Rituraj/assets/images/Readme/Krc.png)
+- *Innovation in Progress* - ![Innovation in Progress](./Rituraj/assets/images/Readme/Innovation.png)
+- *Services Showcase* - ![Services Showcase](./Rituraj/assets/images/Readme/S-1.png)![Services Showcase](./Rituraj/assets/images/Readme/S-2.png)![Services Showcase](./Rituraj/assets/images/Readme/S-3.png)![Services Showcase](./Rituraj/assets/images/Readme/S-4.png)![Services Showcase](./Rituraj/assets/images/Readme/S-5.png)
+- *About Section* - ![About Section](./Rituraj/assets/images/Readme/About-me.png)
+- *Tech Stack Visualization* - ![Tech Stack Visualization](./Rituraj/assets/images/Readme/Tech-Stack.png)
 
 
 ---
